@@ -179,6 +179,16 @@ input {
     overflow: hidden
 }
 
+.single-destination a {
+  color:#040E27;
+  text-decoration: none;
+}
+
+.single-destination a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
 img {
   /* Set the max-width property to 100% */
   max-width: 100%;
